@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @belenkaya
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning c++, unreal engine, java
-- 💞️ I’m looking to collaborate on some game project maybe
+- 🌱 I’m currently learning c++ 
 - 📫 How to reach me guccimanne@bk.ru
 
 <!---
